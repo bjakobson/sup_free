@@ -1,6 +1,6 @@
 {
     "name": "Supreme Cop",
-    "version": "7.0",
+    "version": "7.1",
     "manifest_version": 2,
     
     "content_scripts": [
